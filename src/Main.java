@@ -6,7 +6,7 @@ public class Main {
         System.out.println("Hello world!");
         Author author1 = new Author(12, "Mindaugas", "Ročys");
 
-        ArrayList<String> authorList = new ArrayList();
+        ArrayList<Author> authorList = new ArrayList();
 
         Scanner sc = new Scanner(System.in);
 
