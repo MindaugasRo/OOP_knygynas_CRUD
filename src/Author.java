@@ -81,7 +81,7 @@ public class Author {
         Author a = (Author) obj;
         return this.id == a.id;
     }
-
+// git testas
     @Override
     public String toString() {
         return  "ID [ " + id + " ]" +
